@@ -1,5 +1,5 @@
-# Website Food Services
-Food services website with HTML, Vanilla CSS and Vanilla JavaScript
+# Responsive Website Food Services
+Food services responsive website with HTML, Vanilla CSS and Vanilla JavaScript
 
 Online-Preview: https://omnifood-alvaro.netlify.app/
 
